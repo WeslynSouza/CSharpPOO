@@ -1,9 +1,9 @@
 ﻿public class ContaCorrente
 {
-    public string titular;
+    public string titular = "wesley";
     public int agencia;
     public int numero;
-    public double saldo;
+    public double saldo = 100;
 
 
 }
