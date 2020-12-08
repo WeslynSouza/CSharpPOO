@@ -1,0 +1,7 @@
+C:\Users\wisle\OneDrive\Documents\CSharpPOO\ByteBank-pt2\ByteBank\bin\Debug\ByteBank.exe.config
+C:\Users\wisle\OneDrive\Documents\CSharpPOO\ByteBank-pt2\ByteBank\bin\Debug\ByteBank.exe
+C:\Users\wisle\OneDrive\Documents\CSharpPOO\ByteBank-pt2\ByteBank\bin\Debug\ByteBank.pdb
+C:\Users\wisle\OneDrive\Documents\CSharpPOO\ByteBank-pt2\ByteBank\obj\Debug\ByteBank.csprojAssemblyReference.cache
+C:\Users\wisle\OneDrive\Documents\CSharpPOO\ByteBank-pt2\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\wisle\OneDrive\Documents\CSharpPOO\ByteBank-pt2\ByteBank\obj\Debug\ByteBank.exe
+C:\Users\wisle\OneDrive\Documents\CSharpPOO\ByteBank-pt2\ByteBank\obj\Debug\ByteBank.pdb
