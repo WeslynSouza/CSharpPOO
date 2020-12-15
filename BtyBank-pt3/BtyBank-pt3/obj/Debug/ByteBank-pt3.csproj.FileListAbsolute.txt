@@ -1,0 +1,7 @@
+C:\Users\wisle\OneDrive\Documents\CSharpPOO\BtyBank-pt3\BtyBank-pt3\bin\Debug\BtyBank-pt3.exe.config
+C:\Users\wisle\OneDrive\Documents\CSharpPOO\BtyBank-pt3\BtyBank-pt3\bin\Debug\BtyBank-pt3.exe
+C:\Users\wisle\OneDrive\Documents\CSharpPOO\BtyBank-pt3\BtyBank-pt3\bin\Debug\BtyBank-pt3.pdb
+C:\Users\wisle\OneDrive\Documents\CSharpPOO\BtyBank-pt3\BtyBank-pt3\obj\Debug\ByteBank-pt3.csprojAssemblyReference.cache
+C:\Users\wisle\OneDrive\Documents\CSharpPOO\BtyBank-pt3\BtyBank-pt3\obj\Debug\ByteBank-pt3.csproj.CoreCompileInputs.cache
+C:\Users\wisle\OneDrive\Documents\CSharpPOO\BtyBank-pt3\BtyBank-pt3\obj\Debug\BtyBank-pt3.exe
+C:\Users\wisle\OneDrive\Documents\CSharpPOO\BtyBank-pt3\BtyBank-pt3\obj\Debug\BtyBank-pt3.pdb
